@@ -1,0 +1,11 @@
+/* Global styles */
+:root {
+  --primary: #006d77;
+  --secondary: #219ebc;
+  --accent: #ffb703;
+  --bg-light: #fcf9f4;
+  --text-dark: #2e2e2e;
+  --text-light: #ffffff;
+  --radius: 8px;
+  --font: "Segoe UI", sans-serif;
+}
